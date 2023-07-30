@@ -20,6 +20,9 @@ To interact with the DegenToken contract, follow these steps:
 4. Players can redeem their tokens for in-game items by calling the `redeem` function.
 5. Players can burn their tokens using the `burn` function when they are no longer needed.
 
+## Video walkthrough: 
+https://www.loom.com/share/d645e4d88faf481ca2db5e4ac958a286?sid=c67f07d8-d783-45a1-ab63-b975ce75271a
+
 ## Code: 
 ```
 /*Your task is to create a ERC20 token and deploy it on the Avalanche network for Degen Gaming. The smart contract should have the following functionality:
